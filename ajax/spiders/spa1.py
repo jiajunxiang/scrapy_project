@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time : 2025/2/25 13:43
-# 页面直接内嵌在网页源代码中
+# 数据通过 Ajax 加载，页面动态渲染，适合 Ajax 分析和动态页面渲染爬取。
 import scrapy
 from scrapy import Request
 from learnscrapy.items import LearnscrapyItem
