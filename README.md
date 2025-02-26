@@ -1,0 +1,2 @@
+# scrapy_project
+基础学习scrapy框架，通过一些案例逐步解析框架的每个用法，由浅入深的理解scrapy
