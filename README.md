@@ -1,6 +1,7 @@
 # scrapy_project
-基础学习scrapy框架，通过一些案例逐步解析框架的每个用法，由浅入深的理解scrapy
-main目录下的各个文件夹说明：
-learnscrapy是数据通过服务端渲染，适合基本爬虫练习，稍微有难度是含有登陆验证授权的处理
-Ajax是通过 API 接口进行遍历的，所以使用总的页数进行循环就可以得到所有的起始 URL。
-Ajax_second没有起始 URL，通过字段count作为结束标志，自己构建url。
+基础学习scrapy框架，通过一些案例逐步解析框架的每个用法，由浅入深的理解scrapy<br>
+main目录下的各个文件夹说明：<br>
+learnscrapy是数据通过服务端渲染，适合基本爬虫练习，稍微有难度是含有登陆验证授权的处理<br>
+Ajax是通过 API 接口进行遍历的，所以使用总的页数进行循环就可以得到所有的起始 URL。<br>
+Ajax_second没有起始 URL，通过字段count作为结束标志，自己构建URL。<br>
+
